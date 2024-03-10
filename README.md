@@ -1,6 +1,6 @@
 ## Clone
 
-```$ git clone git@github.com:thimyxuan/taxis-pickup-zone-clustering.git```
+```$ git clone https://github.com/thimyxuan/taxis-pickup-zone-clustering.git```
 
 ## Dépendances
 
